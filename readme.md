@@ -1,11 +1,11 @@
 # Calculadora Média Acadêmica 📚
  
-## Projeto desenvolvido com o objetivo de aprimorar e praticar os conhecimentos em JavaSript. 
+## Projeto desenvolvido com o objetivo de aprimorar e praticar os conhecimentos em JavaScript. 
 
 
 ### Objetivo:
 
-- Criar um programa para calcular as médias do semestre academico e definir se o aluno reprovou ou aprovou no semestre.
+- Criar um programa para calcular as médias do semestre acadêmico e definir se o aluno reprovou ou aprovou no semestre.
 
 - A Média Final (MF) é calculada por meio da média ponderada das duas notas, N1 e N2, com
 peso, respectivamente de 40% e 60%, resultante da seguinte equação:
